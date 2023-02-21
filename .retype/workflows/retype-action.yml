@@ -5,17 +5,11 @@ on:
     branches:
       - main
 
-permissions: read-all
-
 jobs:
   publish:
     name: Publish to retype branch
 
     runs-on: ubuntu-latest
-    
-    permissions:
-      pages: write
-      pull-requests: write
 
     steps:
       - uses: actions/checkout@v2
@@ -24,5 +18,4 @@ jobs:
 
       - uses: retypeapp/action-github-pages@latest
         with:
-          branch: retype
           update-branch: true
