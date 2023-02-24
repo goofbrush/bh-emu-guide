@@ -4,7 +4,7 @@
 
 # GLideN64 (SoftRender Fix)
 
-![](/resources/img/glide.png)
+![](/res/img/glide.png)
 
 !!!warning
 Has not been fully tested, bugs and glitches may still occur
@@ -18,9 +18,8 @@ This is a fork of GLideN64[[rev.7a11c6ca](https://github.com/gonetz/GLideN64/com
 Make sure to **enable** framebuffer emulation
 !!!
 
-!!!danger This plugin is NOT recommended for speedrun usage
-
-Requires specifically **Project 64 version 1.6** for the culling fix to work, other versions will let you clip through buildings and slopes which will invalidate your run.
+!!!danger
+Requires specifically **Project 64 version 1.6** for the culling fix to work, other versions will let you clip through buildings and slopes
 !!!
 
 

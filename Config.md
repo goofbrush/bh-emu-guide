@@ -1,5 +1,11 @@
 # Setting up the emulator
 
+By default, Project64 comes with Jabo plugins which notoriously have collision issues, buggy textures, crackly audio and generally emulate very poorly. This section provides information on the recommended plugins to improve emulation as well how to set them up.
+
+!!! Info Concerning manual setup
+All the necessary plugins are already included with the provided Project64 build, but if you did the installation manually, you will have to install the plugins manually, too. This is typically done by copying the plugin .dll files, as well as any other files into the Plugin folder inside Project64's installation directory.
+!!!
+
 ## Plugin selection
 
 The plugins can be changed by opening the Options -> Settings menu. After selecting, the plugins can be configured by going into Options -> Configure Graphics/Audio plugin. Follow the links below for detailed information on configuring individual plugins.

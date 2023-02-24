@@ -1,6 +1,6 @@
 # Azimer’s HLE v0.70 WIP 10
 
-![](/resources/img/azihle.png)
+![](/res/img/azihle.png)
 
 !!!success
 Recommended audio plugin

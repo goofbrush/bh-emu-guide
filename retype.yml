@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: goofbrush.github.io/bh-emu-guide/
 branding:
-  title: Project Name
+  title: Body Harvest
   label: Docs
 links:
 - text: Getting Started

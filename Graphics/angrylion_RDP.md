@@ -1,6 +1,6 @@
 # angrylion RDP Plus r8
 
-![](/resources/img/lion.png)
+![](/res/img/lion.png)
 
 !!!success
 Recommended graphics plugin
@@ -11,7 +11,11 @@ Recommended graphics plugin
 A low-level video emulation plugin, based on the pixel-perfect angrylion RDP plugin with added multithreading. Made for Project 64 versions 2.x and above but still should work with older versions.
 
 !!!info
-Make sure to enable **Multithreaded Rendering** and increase threads until slowdown is minimised
+Make sure to enable **Multithreaded Rendering** and increase the thread count under graphics plugin settings
+!!!
+
+!!!info
+Make sure to **disable** Graphics HLE under Plugins in the general settings menu
 !!!
 
 !!!warning
