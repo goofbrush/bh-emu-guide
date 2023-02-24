@@ -1,5 +1,5 @@
 - [Introduction](index.md)
-- [Emulator](Emulator.md)
+- [Acquiring the emulator](Emulator.md)
 - [Plugin Configuration](Config.md)
 - [Graphics plugins]()
 - - [angrylion RDP Plus r8](Graphics/angrylion_RDP.md)
