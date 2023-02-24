@@ -1,7 +1,5 @@
 - [Introduction](index.md)
 - [Acquiring the emulator](Emulator.md)
-<!-- - [Acquiring the game](getting_game.md) -->
-<!-- - [Basic configuration](basic_config.md) -->
 - [Plugin Configuration](Config.md)
 - [Graphics plugins]()
 - - [angrylion RDP Plus r8](Graphics/angrylion_RDP.md)
@@ -10,5 +8,5 @@
 - [Audio plugins]()
 - - [Azimer's HLE v0.70 WIP 10](Audio/Azimer_HLE.md)
 - - [shunyuan's HLE audio](Audio/shunyan_HLE.md)
---- - [Additional stuff]()
---- - - [Savestates]()
+#-  [Additional stuff]()
+#- - [Savestates]()
