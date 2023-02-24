@@ -7,7 +7,7 @@ To speed up the configuration process, there are 2 prebuilt packages available, 
 ### v2.3 [!file Project64 2.3](https://www.dropbox.com/s/dnvps5llun3c1ld/Project%2064%202.3.rar?dl=1)
 
 !!!info 
-2.3 is generally reccomended as the most accurate plugin is designed for v2.3
+2.3 is generally recommended as the most accurate plugin is designed for v2.3
 !!!
 
 
