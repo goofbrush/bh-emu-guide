@@ -12,10 +12,8 @@ A low-level video emulation plugin, based on the pixel-perfect angrylion RDP plu
 
 !!!info
 Make sure to enable **Multithreaded Rendering** and increase the thread count under graphics plugin settings
-!!!
 
-!!!info
-Make sure to **disable** Graphics HLE under Plugins in the general settings menu
+Then **disable** Graphics HLE under Plugins in the general settings menu
 !!!
 
 !!!warning

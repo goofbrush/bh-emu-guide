@@ -5,7 +5,7 @@ branding:
   title: Body Harvest
   label: Docs
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: BH Discord
+  link: https://discord.com/invite/SED4M3VmBj
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
