@@ -8,5 +8,3 @@
 ## Audio plugins
 - - [Azimer's HLE v0.70 WIP 10](Audio/Azimer_HLE.md)
 - - [shunyuan's HLE audio](Audio/shunyan_HLE.md)
-## Additional stuff
-## Savestates
