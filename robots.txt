@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goofbrush.github.io/bh-emu-guide/sitemap.xml.gz
