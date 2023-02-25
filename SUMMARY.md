@@ -8,5 +8,5 @@
 - - [GLideN64 (softrender fix)](Graphics/GLideN64.md)
 
 ## Audio plugins
-- - [shunyuan's HLE audio](Audio/shunyan_HLE.md)
 - - [Azimer's HLE v0.70 WIP 10](Audio/Azimer_HLE.md)
+- - [shunyuan's HLE audio](Audio/shunyan_HLE.md)
