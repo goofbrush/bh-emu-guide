@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goofbrush.github.io/bh-emu-guide/sitemap.xml.gz
+Sitemap: http://goofbrush.github.io/body-harvest/sitemap.xml.gz
