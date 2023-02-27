@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://goofbrush.github.io/body-harvest/sitemap.xml.gz
+Sitemap: https://goofbrush.github.io/body-harvest/sitemap.xml.gz
